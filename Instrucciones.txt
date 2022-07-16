@@ -1,0 +1,6 @@
+Instrucciones
+
+•	Importar base de datos productos.sql en MySQL.
+•	Meter los archivos en una carpeta, que este dentro de la carpeta htdocs en XAMM.
+•	Encender XAMM.
+•	Ingresar en el buscador: http://localhost/jvh-crud/productos.php para iniciar con la ejecución.
